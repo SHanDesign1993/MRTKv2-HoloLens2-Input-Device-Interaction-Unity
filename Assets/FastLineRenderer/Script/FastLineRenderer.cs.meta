@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 0d745c13a99f8244cb610895d9558b2b
+timeCreated: 1487194109
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Material: {instanceID: 0}
+  - Camera: {instanceID: 0}
+  - LineTexture: {instanceID: 0}
+  - LineTextureStartCap: {instanceID: 0}
+  - LineTextureEndCap: {instanceID: 0}
+  - LineTextureRoundJoin: {instanceID: 0}
+  - GlowTexture: {instanceID: 0}
+  - GlowTextureStartCap: {instanceID: 0}
+  - GlowTextureEndCap: {instanceID: 0}
+  - GlowTextureRoundJoin: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
